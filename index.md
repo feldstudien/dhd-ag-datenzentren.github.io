@@ -23,6 +23,8 @@
 <li>
 	       <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.&gt;
 </li><li>
+		<a href="https://www.corpora.uni-hamburg.de" target="_blank">Hamburger Zentrum für Sprachkorpora (HZSK)</a>, Hamburg: Hanna Hedeland.*</li>
+<li><li>
 		<a href="http://www.hab.de" target="_blank">Herzog August-Bibliothek (HAB)</a>, Wolfenbüttel: Lisa Klaffki.*</li>
 <li>
 		<a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsinfrastrukturen</a>, Marburg: Stefan Schulte.*</li>
