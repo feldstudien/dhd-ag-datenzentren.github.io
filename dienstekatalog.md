@@ -1,3 +1,5 @@
+# Dienstekatalog
+
 Die Arbeitsgruppe Datenzentren ist seit 2014 Teil des Verbandes DHd – „Digital Humanities im deutschsprachigen Raum“ – und setzt sich aus 22 geisteswissenschaftlichen Forschungsdatenzentren zusammen, von denen 15 Zentren über eigene FDM-Infrastrukturen verfügen.
 
 Neben der Beförderung einer langfristigen Sichtbarkeit, Verfügbarkeit und Nachnutzung von Ressourcen und Forschungsdaten versteht sich die AG-Datenzentren als Forum für die Entwicklung von und den Austuasch über Lösungen, die der Heterogenität und den Herausforderungen im Bereich des Forschungsdatenmanagements in den Geisteswissenschaften gerecht werden.
