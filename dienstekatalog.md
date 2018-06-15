@@ -9,3 +9,4 @@ Somit stellt die AG-Datenzentren für die Geisteswissenschaften eine Blaupause d
 Zur besseren Erreichbarkeit einzelner Dienste hat die AG einen Dienstekatalog entwickelt, welcher explizit Forscherinnen und Forscher in den Geisteswissenschaften adressiert. Der Katalog stellt eine individuelle Vorstellung aller Datenzentren und die jeweiligen Kompetenzen sowie eine Bündelung von Spezialdienstleistungen und Serviceangeboten im Verbund dar.
 
 Eine Übersicht der allgemeinen sowie spezialisierten Dienste der Datenzentren wird derzeit an dieser Stelle aufgebaut.
+Für weitere Informationen wenden Sie sich bitte an [Patrick Helling](mailto:patrick.helling@uni-koeln.de).
