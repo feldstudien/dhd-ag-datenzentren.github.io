@@ -21,7 +21,7 @@
 <li>
 		<a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*</li>
 <li>
-	       <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.&gt;
+	       <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.
 </li><li>
 		<a href="https://www.corpora.uni-hamburg.de" target="_blank">Hamburger Zentrum für Sprachkorpora (HZSK)</a>, Hamburg: Hanna Hedeland.*</li>
 <li>
