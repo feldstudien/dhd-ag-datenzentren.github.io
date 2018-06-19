@@ -37,7 +37,8 @@ An der Arbeitsgruppe sind beteiligt:
 * Diese Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.</p>
 
 ## Aktuelles
-+Neue Publikation der DHd-AG-Datenzentren+
+
+**Neue Publikation der DHd-AG-Datenzentren**
 
 Am 1. März 2018 hielt die DHd-AG Datenzentren im Rahmen der DHd 2018 Köln (Kritik der digitalen Vernunft, 26.02.-02-03.2018, Universität zu Köln) ein Panel unter dem Titel *Die Summe geisteswissenschaftlicher Methoden? Fachspezifisches Datenmanagement als Voraussetzung zukunftsorientierten Forschens* ab.
 Der Blogeintrag zum Panel ist nun veröffentlicht und kann hier nachgelesen werden: <a href="https://dhd-blog.org/?p=9740">https://dhd-blog.org/?p=9740</a>
