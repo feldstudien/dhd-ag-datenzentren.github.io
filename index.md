@@ -71,4 +71,4 @@ Tel.: +49(0)40/42838-2080<br />
 <p> <br /><em>Convenor 4/2014-3/2016</em>: Patrick Sahle<br />
 	 </p>
 	 
-	 [DK](dienstekatalog.md)
+[DK](dienstekatalog.md)
