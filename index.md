@@ -22,6 +22,7 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="https://www.corpora.uni-hamburg.de" target="_blank">Hamburger Zentrum für Sprachkorpora (HZSK)</a>, Hamburg: Hanna Hedeland.*
 - <a href="http://www.hab.de" target="_blank">Herzog August-Bibliothek (HAB)</a>, Wolfenbüttel: Lisa Klaffki.*
 - <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsinfrastrukturen</a>, Marburg: Stefan Schulte.*
+- [Hessisches Landesarchiv](https://landesarchiv.hessen.de/), Marburg: Nils Reichert 
 - <a href="http://www.geschichte.uni-halle.de/struktur/hist-data/" target="_blank">Historisches Datenzentrum Sachsen-Anhalt (Hist-Data)</a>, Halle-Wittenberg: Katrin Moeller / Forschungsinfrastrukturen Universitäts- und Landesbibliothek Sachsen-Anhalt: Roberto Cozatl (ULB).*
 - <a href="http://humanities-data-centre.de/" target="_blank">Humanities Data Centre (HDC)</a>, Göttingen: Sven Bingert, Claudia Engelhardt, Daniel Kurzawe, Jörg Wettlaufer.*
 - <a href="http://www.ianus-fdz.de" target="_blank">IANUS am Deutschen Archäologischen Institut (IANUS)</a>, Berlin: Maurice Heinrich, Felix Schäfer.
