@@ -14,3 +14,7 @@ Die Zugänglichkeit zu Angeboten und Diensten ist dabei nicht an die Vermittlung
 
 Ein NFDI-Konsortium für die Geisteswissenschaften soll eine umfassende Governance-Struktur aufbauen, den koordinierten Aufbau von Diensten fördern, die verschiedenen Akteursgruppen (generische Diensteanbieter, Datenzentren, fachliche Abstimmungsorgane) einbinden und in der Konsolidierung ihrer Lösungsangebote stärken.
 
+-----------
+Siehe auch:
+- DHd AG Datenzentren: “Geisteswissenschaftliche Datenzentren im deutschsprachigen Raum - Grundsatzpapier zur Sicherung der langfristigen Verfügbarkeit von Forschungsdaten” (https://doi.org/10.5281/zenodo.1134760)
+- Verband Digital Humanities im deutschsprachigen Raum (DHd): “Stellungnahme des Verbandes Digital Humanities im deutschsprachigen Raum (DHd) zur Nationalen Forschungsdateninfrastruktur (NFDI)” (https://dig-hum.de/stellungnahme-dhd-nfdi) 
