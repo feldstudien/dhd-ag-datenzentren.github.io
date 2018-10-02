@@ -1,3 +1,8 @@
+---
+title: Home
+layout: post
+---
+
 # AG Datenzentren im Verband DHd
 Die Digital Humanities sind wesentlich durch projektbasierte Forschungsaktivitäten gekennzeichnet. Durch deren zeitliche Begrenzung stellt sich das Problem der nachhaltigen Verfügbarkeit und Nutzbarkeit von Forschungsdaten. Was passiert, wenn Projekte enden? Wie können die entstandenen Daten archiviert werden? Wie können die Ergebnisse der Forschung dauerhaft zur Verfügung gestellt werden?
 
