@@ -1,6 +1,5 @@
 ---
 title: NFDI-Konsortium
-layout: post
 ---
 
 # Vorschlag der AG Datenzentren im DHd zur Bildung und Strukturierung eines NFDI-Konsortiums für die Geisteswissenschaften (02.10.2018)
