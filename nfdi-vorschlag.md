@@ -1,3 +1,8 @@
+---
+title: NFDI-Konsortium
+layout: post
+---
+
 # Vorschlag der AG Datenzentren im DHd zur Bildung und Strukturierung eines NFDI-Konsortiums für die Geisteswissenschaften (02.10.2018)
 
 Forschungsdatenmanagement in den Geisteswissenschaften ist dadurch gekennzeichnet, dass immer wieder verschiedene Schichten von Herausforderungen adressiert werden, die unterschiedlich lokal oder global bzw. unterschiedlich fachübergreifend oder fachspezifisch sind oder unterschiedliche Datenarten betreffen.
