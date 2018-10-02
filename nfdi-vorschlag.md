@@ -21,6 +21,6 @@ Ein NFDI-Konsortium für die Geisteswissenschaften soll eine umfassende Governan
 -----------
 Siehe auch:
 - DHd AG Datenzentren: “Geisteswissenschaftliche Datenzentren im deutschsprachigen Raum - Grundsatzpapier zur Sicherung der langfristigen Verfügbarkeit von Forschungsdaten” [https://doi.org/10.5281/zenodo.1134760](https://doi.org/10.5281/zenodo.1134760)
-- Verband Digital Humanities im deutschsprachigen Raum (DHd): “Stellungnahme des Verbandes Digital Humanities im deutschsprachigen Raum (DHd) zur Nationalen Forschungsdateninfrastruktur (NFDI)” [https://dig-hum.de/stellungnahme-dhd-nfd](https://dig-hum.de/stellungnahme-dhd-nfd)
+- Verband Digital Humanities im deutschsprachigen Raum (DHd): “Stellungnahme des Verbandes Digital Humanities im deutschsprachigen Raum (DHd) zur Nationalen Forschungsdateninfrastruktur (NFDI)” [https://dig-hum.de/stellungnahme-dhd-nfdi](https://dig-hum.de/stellungnahme-dhd-nfdi)
 
 Dieses Dokument als PDF: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1442845.svg)](https://doi.org/10.5281/zenodo.1442845)
