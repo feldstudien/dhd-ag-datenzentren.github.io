@@ -1,6 +1,5 @@
 ---
 title: Dienstekatalog
-layout: post
 ---
 
 # Dienstekatalog
