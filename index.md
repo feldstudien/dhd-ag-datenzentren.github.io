@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: post
 ---
 
 # AG Datenzentren im Verband DHd
