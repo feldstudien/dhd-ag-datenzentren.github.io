@@ -41,11 +41,11 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 
 ## Aktuelles
 
-**Stellungnahme der AG zu einem geisteswissenschaftlichen NFDI-Konsortium**
+**Stellungnahme der AG zu einem geisteswissenschaftlichen NFDI-Konsortium** (02.10.2018, @herrner)
 
 In Vorbereitung auf den [dritten Workshop](http://forschungsinfrastrukturen.de/doku.php/programm-2018-10-04) der Reihe "[Wissenschaftsgeleitete Forschungsinfrastrukturen für die Geistes- und Kulturwissenschaften in Deutschland](http://forschungsinfrastrukturen.de/doku.php)", hat die AG einen [Vorschlag zur Bildung und Strukturierung eines geisteswissenschaftlichen NFDI-Konsortiums](https://dhd-ag-datenzentren.github.io/nfdi-vorschlag) vorgelegt. 
 
-**Neue Publikation der DHd-AG-Datenzentren**
+**Neue Publikation der DHd-AG-Datenzentren** (04.03.2018, @herrner)
 
 Am 1. März 2018 hielt die DHd-AG Datenzentren im Rahmen der DHd 2018 Köln (Kritik der digitalen Vernunft, 26.02.-02-03.2018, Universität zu Köln) ein Panel unter dem Titel *Die Summe geisteswissenschaftlicher Methoden? Fachspezifisches Datenmanagement als Voraussetzung zukunftsorientierten Forschens* ab.
 Der Blogeintrag zum Panel ist nun veröffentlicht und kann hier nachgelesen werden: <a href="https://dhd-blog.org/?p=9740">https://dhd-blog.org/?p=9740</a>
