@@ -18,7 +18,8 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="http://acdh.oeaw.ac.at/" target="_blank">Austrian Centre for Digital Humanities (ACDH-ÖAW)</a>, Wien: Matej Ďurčo.*
 - <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Gerald Neumann.*
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
-- <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Peter Gietz (Tübingen) und Lisa Klaffki (Wolfenbüttel).*
+- [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
+- <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Lisa Klaffki (Wolfenbüttel).*
 - <a href="http://dasch.swiss" target="_blank">Data and Service Center for the Humanities (DaSCH)</a>, Basel, Lukas Rosenthaler.*
 - <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Patrick Sahle, Jonathan Blumtritt, Patrick Helling.*
 - [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
