@@ -62,7 +62,7 @@ Martin-Luther-Universität Halle-Wittenberg
 Telefon: +49 (0)345 55 - 24286  
 E-Mail: [katrin.moeller@geschichte.uni-halle.de](mailto:katrin.moeller@geschichte.uni-halle.de)  
 
-Convenor 4/2014-3/2016: Patrick Sahle
+Convenor 4/2014-3/2016: Patrick Sahle  
 Convenor 4/2016-3/2019: Kai Wörner	 
 
 [DK](dienstekatalog.md)
