@@ -56,15 +56,13 @@ Am 1. März 2018 hielt die DHd-AG Datenzentren im Rahmen der DHd 2018 Köln (Kri
 Der Blogeintrag zum Panel ist nun veröffentlicht und kann hier nachgelesen werden: <a href="https://dhd-blog.org/?p=9740">https://dhd-blog.org/?p=9740</a>
 ## Kontakt/Convenor
 
-**Kai Wörner**  
-Zentrum für nachhaltiges Forschungsdatenmanagement  
-Universität Hamburg  
-Monetastraße 4  
-20146 Hamburg  
-Tel.: +49(0)40/42838-2080  
-E-Mail: [kai.woerner@uni-hamburg.de](mailto:kai.woerner@uni-hamburg.de)  
-ORCID:  [0000-0001-8939-4437](https://orcid.org/0000-0001-8939-4437)  	
+**Katrin Möller**  
+Historisches Datenzentrum Sachsen-Anhalt
+Martin-Luther-Universität Halle-Wittenberg
+Telefon: +49 (0)345 55 - 24286
+E-Mail: [katrin.moeller@geschichte.uni-halle.de](mailto:katrin.moeller@geschichte.uni-halle.de)
 
-Convenor 4/2014-3/2016</em>: Patrick Sahle
-	 
+Convenor 4/2014-3/2016: Patrick Sahle
+Convenor 4/2016-3/2019: Kai Wörner	 
+
 [DK](dienstekatalog.md)
