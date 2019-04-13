@@ -19,7 +19,7 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Gerald Neumann.*
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
 - [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
-- <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Lisa Klaffki (Wolfenbüttel).*
+- <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Ulrich Schwardmann, Tibor Kálmán, Philipp Wieder (GWDG).*
 - <a href="http://dasch.swiss" target="_blank">Data and Service Center for the Humanities (DaSCH)</a>, Basel, Lukas Rosenthaler.*
 - <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Patrick Sahle, Jonathan Blumtritt, Patrick Helling.*
 - [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
@@ -61,6 +61,14 @@ Historisches Datenzentrum Sachsen-Anhalt
 Martin-Luther-Universität Halle-Wittenberg  
 Telefon: +49 (0)345 55 - 24286  
 E-Mail: [katrin.moeller@geschichte.uni-halle.de](mailto:katrin.moeller@geschichte.uni-halle.de)  
+
+Stellvertretende Convenor 
+**Ulrike Wuttke**
+Fachhochschule Potsdam/Projekt RDMO
+Fachbereich Informationswissenschaften
+Kiepenheuerallee 5
+14469 Potsdam
+E-Mail: [ulrike.wuttke@gmx.net] (mailto: ulrike.wuttke@gmx.net)
 
 Convenor 4/2014-3/2016: Patrick Sahle  
 Convenor 4/2016-3/2019: Kai Wörner	 
