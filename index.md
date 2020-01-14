@@ -44,10 +44,10 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 * Diese Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.</p>
 
 ## Aktuelles
-**Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
+- **Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12806">https://dhd-blog.org/?p=12806<a>
 
-**Workshop der AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main**
+- **Workshop der AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main**
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12627">https://dhd-blog.org/?p=12627<a>
 
 **Neue Publikation der DHd-AG-Datenzentren** 
