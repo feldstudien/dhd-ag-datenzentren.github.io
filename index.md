@@ -37,6 +37,7 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 - FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">Projekt RDMO</a>, Ulrike Wuttke (stellv. Convenor).
 - <a href="http://www.sagw.ch" target="_blank">Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</a>, Bern: Beat Immenhauser.
 - <a href="http://www.esciences.uni-trier.de/" target="_blank">Servicecentrum eSciences</a>, Universität Trier: Marina Lemaire*
+- <a href="https://www.tu-braunschweig.de/ub" target="_blank">Universitätsbibliothek der Technischen Universität Braunschweig</a>, Timo Steyer.
 - <a href="https://www.ulb.tu-darmstadt.de/" target="_blank">Universitäts- und Landesbibliothek</a>, Darmstadt: Thomas Stäcker.
 - <a href="https://informationsmodellierung.uni-graz.at/" target="_blank">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities Graz (ZIM-ACDH)</a>, Graz: Johannes Stigler.*
 - <a href="https://www.fdm.uni-hamburg.de/ueber-uns/gwin.html">Zentrum für nachhaltiges Forschungsdatenmanagement/Geisteswissenschaftliche Infrastruktur für Nachhaltigkeit (gwin)</a>, Hamburg: Kai Wörner.*
