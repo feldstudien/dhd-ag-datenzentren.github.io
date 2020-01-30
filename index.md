@@ -41,7 +41,7 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 - <a href="https://informationsmodellierung.uni-graz.at/" target="_blank">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities Graz (ZIM-ACDH)</a>, Graz: Johannes Stigler.*
 - <a href="https://www.fdm.uni-hamburg.de/ueber-uns/gwin.html">Zentrum für nachhaltiges Forschungsdatenmanagement/Geisteswissenschaftliche Infrastruktur für Nachhaltigkeit (gwin)</a>, Hamburg: Kai Wörner.*
 
-* Diese Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.</p>
+Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.
 
 ## Aktuelles
 - **Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
