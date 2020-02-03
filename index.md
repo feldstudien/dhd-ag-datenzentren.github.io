@@ -15,7 +15,7 @@ Die Arbeitsgruppe hat eine [Stellungnahme](https://dig-hum.de/stellungnahme-dhd-
 
 An der Arbeitsgruppe sind beteiligt:
 
-- <a href="http://www.adwmainz.de/mitarbeiterinnen/profil/jonathan-d-geiger.html" target="_blank">Akademie der Wissenschaften und der Literatur Mainz, Digitale Akademie</a>, Jonathan G. Geiger.
+- <a href="http://www.adwmainz.de/mitarbeiterinnen/profil/jonathan-d-geiger.html" target="_blank">Akademie der Wissenschaften und der Literatur, Digitale Akademie</a>, Mainz: Jonathan G. Geiger.
 - <a href="http://acdh.oeaw.ac.at/" target="_blank">Austrian Centre for Digital Humanities (ACDH-ÖAW)</a>, Wien: Matej Ďurčo.*
 - <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Gerald Neumann.*
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
