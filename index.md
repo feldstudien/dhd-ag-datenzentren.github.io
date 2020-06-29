@@ -75,7 +75,7 @@ E-Mail: [katrin.moeller@geschichte.uni-halle.de](mailto:katrin.moeller@geschicht
 
 Stellvertretende Convenor  
 **Ulrike Wuttke**  
-Fachhochschule Potsdam - Projekt RDMO  
+Fachhochschule Potsdam - RDMO  
 Fachbereich Informationswissenschaften  
 Kiepenheuerallee 5  
 14469 Potsdam  
