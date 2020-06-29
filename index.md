@@ -22,7 +22,7 @@ An der Arbeitsgruppe sind beteiligt:
 - [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
 - <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Ulrich Schwardmann, Tibor Kálmán, Philipp Wieder (GWDG).*
 - <a href="http://dasch.swiss" target="_blank">Data and Service Center for the Humanities (DaSCH)</a>, Basel, Lukas Rosenthaler.*
-- <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Patrick Sahle, Jonathan Blumtritt, Patrick Helling.*
+- <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Patrick Sahle, Jonathan Blumtritt, Patrick Helling, Felix Rau.*
 - [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
 Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Julian Schulz.*
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
