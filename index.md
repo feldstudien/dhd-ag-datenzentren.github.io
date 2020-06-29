@@ -36,7 +36,7 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 - <a href="http://agd.ids-mannheim.de/" target="_blank">Institut für Deutsche Sprache - Archiv für Gesprochenes Deutsch</a>, Mannheim: Thomas Schmidt.
 - <a href="https://www.ieg-mainz.de/" target="_blank">Leibniz-Institut für Deutsche Geschichte</a>, Mainz: Fabian Cremer.
 - <a href="https://tu-dresden.de/mz" target="_blank">Medienzentrum an der TU Dresden</a>: Sander Münster.
-- FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">Projekt RDMO</a>, Ulrike Wuttke (stellv. Convenor).
+- FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke (stellv. Convenor).
 - <a href="http://www.sagw.ch" target="_blank">Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</a>, Bern: Beat Immenhauser.
 - <a href="http://www.esciences.uni-trier.de/" target="_blank">Servicecentrum eSciences</a>, Universität Trier: Marina Lemaire*
 - <a href="https://www.tu-braunschweig.de/ub" target="_blank">Universitätsbibliothek der Technischen Universität Braunschweig</a>, Timo Steyer.
