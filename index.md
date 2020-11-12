@@ -48,7 +48,7 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 
 ## Aktuelles
 - **Dienstekatalog AG Datenzentren**
-Mehr Informationen unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
+Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
   
 **Veranstaltungen 2020** 
 - **Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
