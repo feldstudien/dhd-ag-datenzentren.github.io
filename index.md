@@ -47,6 +47,10 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.
 
 ## Aktuelles
+- **Dienstekatalog AG Datenzentren**
+Mehr Informationen unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
+  
+**Veranstaltungen 2020** 
 - **Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12806">https://dhd-blog.org/?p=12806<a>
 
