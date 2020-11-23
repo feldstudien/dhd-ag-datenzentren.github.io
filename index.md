@@ -55,7 +55,7 @@ Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12806">https://dhd-blog.org/?p=12806<a>
 
 - **Workshop der AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main**
-Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12627">https://dhd-blog.org/?p=12627<a>
+Mehr Informationen sowie die Präsentationen der Vortragenden finden sich auf der folgenden [Seite](https://dhd-ag-datenzentren.github.io/workshop-2020)
 
 **Neue Publikation der DHd-AG-Datenzentren** 
 
